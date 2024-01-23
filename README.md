@@ -3,7 +3,7 @@
 
 ---
 
-### :man_technologist: Обо мне:
+### :man_technologist: About me:
 
 Greetings, my name is Adil Kalbaev and I am a young, ambitious developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> with a strong background in Full Stack development. My wings brought me to the world of code, and over the past 10 months I have successfully overcome technical challenges working on the Iwex team.
 
@@ -21,7 +21,7 @@ A citizen of Kyrgyzstan, I am ready to fully invest my knowledge and enthusiasm 
 
 ---
 
-### 💻 Технологии:
+### 💻 Technology:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
