@@ -1,5 +1,6 @@
 
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Adil
+<img align="right" alt="Coding" width="400" src="https://expertnov.ru/800/600/http/c.tenor.com/X8854xxuQ_EAAAAd/destroy-code-mad.gif">
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
