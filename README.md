@@ -7,8 +7,6 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=FullStack+developer;1%2B+years+of+coding+experiense" alt="Typing SVG" /></a>
 </p>
 
-### :man_technologist: About me:
-
 Greetings, my name is Adil Kalbaev
 
 - :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-adil?style=flat&logo=Telegram&logoColor=white)](https://t.me/adil_xXx) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](adilkalbaev2004@gmail.com)
