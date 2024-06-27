@@ -9,17 +9,7 @@
 
 ### :man_technologist: About me:
 
-Greetings, my name is Adil Kalbaev and I am a young, ambitious developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> with a strong background in Full Stack development. My wings brought me to the world of code, and over the past 10 months I have successfully overcome technical challenges working on the Iwex team.
-
-My education at Vocational High School #98, where I learned the art of web programming, has been a great foundation for my career. Proficiency in programming languages such as JavaScript, TypeScript, and knowledge of frameworks and libraries such as React, Vue.js, Node.js, and Express.js allow me to create efficient and modern web applications.
-
-My experience at Iwex covers a wide range of tasks including software design and development, writing clean code for frontend and backend, testing, debugging, and server side maintenance. My expertise in working with databases such as PostgreSQL and MySQL, as well as experience with Docker and Redux, emphasize my professionalism.
-
-I strive for continuous growth and improvement of my skills, so I am willing to adopt new technologies and approaches. My goal is not just to create code, but to create innovative solutions that improve user experience and benefit the business.
-
-A citizen of Kyrgyzstan, I am ready to fully invest my knowledge and enthusiasm in the project, offering full-time employment with flexible schedule and even remote work. Contact me and let's work together 
-
-- :seedling: Completed the Web Development Lyceum
+Greetings, my name is Adil Kalbaev
 
 - :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-adil?style=flat&logo=Telegram&logoColor=white)](https://t.me/adil_xXx) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](adilkalbaev2004@gmail.com)
 
