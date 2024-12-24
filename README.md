@@ -3,7 +3,7 @@
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer+;Over+3+years+experience" alt="Typing SVG" /></a>
 </p>
 
-Greetings, my name is Adil Kalbaev
+Hi, my name is Adil Kalbaev
 ---
 
 *   ✉️### Skills 
