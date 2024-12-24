@@ -4,9 +4,6 @@
 </p>
 
 Greetings, my name is Adil Kalbaev
-
-- :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-adil?style=flat&logo=Telegram&logoColor=white)](https://t.me/adil_xXx) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](adilkalbaev2004@gmail.com)
-
 ---
 
 *   ✉️### Skills 
